@@ -1,0 +1,5 @@
+.glob-doc{
+	display: flex;
+	flex-direction: column;
+	gap: 2vh;
+}

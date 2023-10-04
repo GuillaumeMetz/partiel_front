@@ -1,0 +1,18 @@
+.card:hover{
+	box-shadow: 10px 5px 5px #4091aa;
+}
+.card{
+	transition-duration: 0.5s;
+	background-color: #61dafb;
+}
+.card-body{
+	display: flex;
+	align-items: center;
+	gap: 5vw;
+}
+button{
+	width: 40vw;
+}
+.card-title{
+	width: 40vw;
+}

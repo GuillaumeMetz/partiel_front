@@ -1,0 +1,13 @@
+form{
+	display: flex;
+	flex-direction: column;
+	max-width: 30vw;
+	gap: 1vh;
+}
+
+.display-comment-form{
+	display: flex;
+	flex-direction: column;
+	gap: 4vh;
+	align-items: center;
+}

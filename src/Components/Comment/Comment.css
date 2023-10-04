@@ -1,0 +1,15 @@
+.commentshow{
+	background-color: #61dafb;
+	padding: 1vh 2vw;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 1vh;
+	text-align: center;
+}
+.parentcomment{
+	display: flex;
+	flex-direction: column;
+	gap: 2vh;
+	margin-top: 2vh;
+}
